@@ -68,7 +68,7 @@ SOFTWARE.
 
 ## Documentation
 
-Live Deployed Application: [View Application](ADRIAN ADD LINK TO HEROKU HERE "Live Deploy")      
+https://adrian-tech-news-blog.herokuapp.com/   
 
 <img width="1270" alt="Screen Shot 2021-05-23 at 10 51 26 PM" src="https://user-images.githubusercontent.com/78574452/119303567-d560e200-bc1a-11eb-93be-8930e425ad63.png">
 
