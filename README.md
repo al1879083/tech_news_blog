@@ -70,4 +70,5 @@ SOFTWARE.
 
 Live Deployed Application: [View Application](ADRIAN ADD LINK TO HEROKU HERE "Live Deploy")      
 
-![Screenshot](ADD LINK TO SCREENSHOT OF APPLICATION HERE "Proof of Application")      
+<img width="1280" alt="Screen Shot 2021-05-23 at 10 44 26 PM" src="https://user-images.githubusercontent.com/78574452/119303489-a9ddf780-bc1a-11eb-958d-aec9b4ca4e97.png">
+
